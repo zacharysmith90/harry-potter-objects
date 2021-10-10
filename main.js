@@ -152,3 +152,4 @@ function filter_movies() {
     document.querySelector("#films").innerHTML = movie_list.map(film => create_movie(film)).join("");
 
     }
+    
