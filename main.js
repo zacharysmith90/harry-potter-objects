@@ -62,6 +62,30 @@ const hp_films = [{
     screenwriter: "Steve Kloves",
     producers: "David Heyman, David Barron and J. K. Rowling",
     poster: "https://static.wikia.nocookie.net/harrypotter/images/9/95/Harry_Potter_and_the_Deathly_Hallows_Part_2_promotional_poster.jpg/revision/latest/scale-to-width-down/667?cb=20130803164345"
+}, {
+    name: "Fantastic Beasts and Where to Find Them",
+    year: 2016,
+    director: "David Yates",
+    composer: "James Newton Howard",
+    screenwriter: "J. K. Rowling",
+    producers: "David Heyman, J. K. Rowling, Steve Kloves and Lionel Wigram",
+    poster: "https://static.wikia.nocookie.net/harrypotter/images/0/01/FBWTFT_Poster.png/revision/latest/scale-to-width-down/1000?cb=20151215162644"
+}, {
+    name: "Fantastic Beasts: The Crimes of Grindelwald",
+    year: 2018,
+    director: "David Yates",
+    composer: "James Newton Howard",
+    screenwriter: "J. K. Rowling",
+    producers: "David Heyman, David Barron and J. K. Rowling",
+    poster: "https://static.wikia.nocookie.net/harrypotter/images/7/7b/FBCOG_Theatrical_poster.jpg/revision/latest/scale-to-width-down/1000?cb=20210716154623"
+}, {
+    name: "Fantastic Beasts: The Secrets of Dumbledore",
+    year: 2022,
+    director: "David Yates",
+    composer: "James Newton Howard",
+    screenwriter: "Steve Kloves and J. K. Rowling",
+    producers: "David Heyman, J. K. Rowling, Steve Kloves, Lionel Wigram and Tim Lewis",
+    poster: "https://static.wikia.nocookie.net/harrypotter/images/8/86/Fantastic_Beasts_The_Secrets_of_Dumbledore.jpg/revision/latest/scale-to-width-down/1000?cb=20210922174338"
 }];
 
 
